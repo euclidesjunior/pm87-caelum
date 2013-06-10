@@ -1,0 +1,4 @@
+public static void main(Strin[] args) {
+	System.out.println("Exemplo de teste de uso do git");
+}
+
